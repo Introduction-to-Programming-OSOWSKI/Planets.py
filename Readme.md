@@ -1,16 +1,29 @@
-# **Assignment Title**  
+# **Planets**  
 
 ## **Assignment Description**  
-
+Create a function called planets() that returns a given planet p's position from the sun. If the planet does not exist, return "<planet> is not a planet".
 
 ## **Examples**  
->
+>planets("earth")  
+3  
+
+>planets("neptune")
+8  
+
+>planets("pluto")  
+pluto is not a planet
 
 ## **Limitations**  
+1 function  
+1 list  
+1 for loop  
+1 if statement  
 
 ## **Hints**  
+There is an image of planets in the explorer to the left.  
 
 ## **Concepts**  
+Unit 1, Unit 2, Unit 3, lists  
 
 ---
 
